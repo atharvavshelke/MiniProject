@@ -22,5 +22,5 @@ class TwitterBot:
         password.send_keys(Keys.RETURN)
         time.sleep(3)
 
-ed = TwitterBot('avskdkpro@gmail.com', 'Kdk@1303200311102003')
+ed = TwitterBot('@gmail.com', '')
 ed.login()
